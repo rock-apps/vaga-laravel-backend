@@ -8,7 +8,7 @@ Conheça mais sobre nossa empresa em https://rockapps.com.br.
 
 Teste para candidatos à vaga de Desenvolvedor PHP Júnior, Pleno e Sênior. O teste é o mesmo para todos os níveis! Nós fazemos isso esperando que os devs mais iniciantes entendam qual o modelo de profissional que temos por aqui e que buscamos para o nosso time. 
 
-**Para iniciar, faça um fork deste projeto e quando concluir, um PR.**
+**Para iniciar, faça um fork deste projeto e nos avise em carreiras@rockapps.com.br com o título VAGA LARAVEL.**
 
 ## As Instruções 
 
