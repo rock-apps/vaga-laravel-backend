@@ -67,3 +67,8 @@ Esperamos que você faça uso das principais tecnologias embarcadas no Laravel. 
  - Reset de senha
  - Integrar um front em React
  
+
+#### O que nós não gostaríamos
+- Descobrir que não foi você quem fez seu teste
+- Ver commits grandes, sem muita explicação nas mensagens em seu repositório
+ 
