@@ -53,7 +53,7 @@ Esperamos que você faça uso das principais tecnologias embarcadas no Laravel. 
 - Cache (Redis ou File),
 - Socket,
 - Autenticação JWT,
-- Jetstream e/ou [Livewire](https://github.com/laravel/jetstream),
+- [Jetstream](https://jetstream.laravel.com/) e/ou [Livewire](https://github.com/livewire/livewire),
 - Testes Unitários,
 - Testes Funcionais.
  
