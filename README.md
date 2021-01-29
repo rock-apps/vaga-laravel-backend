@@ -4,11 +4,17 @@ Desenvolvimento ágil e profissional de produtos e ideias, utilizando modernas t
 
 Conheça mais sobre nossa empresa em https://rockapps.com.br.
 
+
 ## O Teste
 
-Teste para candidatos à vaga de Desenvolvedor PHP Júnior, Pleno e Sênior. O teste é o mesmo para todos os níveis! Nós fazemos isso esperando que os devs mais iniciantes entendam qual o modelo de profissional que temos por aqui e que buscamos para o nosso time. 
+Teste para candidatos à vaga de Desenvolvedor Backend Laravel Júnior, Pleno e Sênior. O teste é o mesmo para todos os níveis! Nós fazemos isso esperando que os devs mais iniciantes entendam qual o modelo de profissional que temos por aqui e que buscamos para o nosso time. 
+
+Você deverá criar um fork deste projeto, e desenvolver em cima do seu fork. Use o README principal do seu repositório para nos contar como foi resolver seu teste, as decisões tomadas, como você organizou e separou seu código, e principalmente as instruções de como rodar seu projeto, afinal a primeira pessoa que irá rodar seu projeto será um programador de nossa equipe, e se você conseguir explicar para ele como fazer isso, você já começou bem!
+
+Nós não definimos um tempo limite para resolução deste teste, o que vale para nós e o resultado final e a evolução da criação do projeto até se atingir este resultado, mas acreditamos que este desafio pode ser resolvido em cerca de 16 horas de codificação.
 
 **Para iniciar, faça um fork deste projeto e nos avise em carreiras@rockapps.com.br com o título VAGA LARAVEL.**
+
 
 ## As Instruções 
 
