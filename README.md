@@ -1,16 +1,23 @@
-# RockApps
+# A RockApps
 
 Desenvolvimento ágil e profissional de produtos e ideias, utilizando modernas tecnologias através de um modelo de custos acessível e flexível. A atuação de nossa empresa busca personalizar projetos e aplicações integrar soluções aos sistemas pré-existentes de nossos clientes. Sempre atualizados com as novas tecnologias de mercado, trazemos conosco aplicações inovadoras que certamente atenderão sua necessidade. Hoje em dia, a RK se consolidou no mercado, possuindo mais de 50 clientes e mais de 60 softwares e aplicativos criados. Realizações que nos mantém em andamento.
+
+Conheça mais sobre nossa empresa em https://rockapps.com.br.
 
 ## O Teste
 
 Teste para candidatos à vaga de Desenvolvedor PHP Júnior, Pleno e Sênior. O teste é o mesmo para todos os níveis! Nós fazemos isso esperando que os devs mais iniciantes entendam qual o modelo de profissional que temos por aqui e que buscamos para o nosso time. 
 
+**Para iniciar, faça um fork deste projeto e quando concluir, um PR.**
+
 ## As Instruções 
 
 O desafio consiste na implementação de um e-Commerce Web utilizando o framework PHP Laravel (versão 5.8+,6,7,8), e um banco de dados relacional SQLite ou MySQL.
 
-Você pode optar por desenvolver somente o Backend utilizando requisições em RestFul API.
+Você também pode optar por desenvolver somente o Backend utilizando requisições em RestFul API.
+
+
+
 
 Veja as principais estruturas de dados
 
